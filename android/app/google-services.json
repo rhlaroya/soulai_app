@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887150070513",
+    "project_id": "prayersparkapp",
+    "storage_bucket": "prayersparkapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887150070513:android:055f0bceeb839c16c8f750",
+        "android_client_info": {
+          "package_name": "com.example.soulai_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6Z1H9m7KjGXYZ3roZXVTN3kJwTbLz7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
