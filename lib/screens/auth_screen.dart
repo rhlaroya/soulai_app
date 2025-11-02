@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../services/auth_service.dart'; // Import the service
-import 'ai_prayer_screen.dart'; // Import the screen to navigate to
+import '../../services/auth_service.dart'; // Import the service
+import '../ai_prayer_screen.dart'; // Import the screen to navigate to
 
 class AuthScreen extends StatefulWidget {
   const AuthScreen({super.key});
