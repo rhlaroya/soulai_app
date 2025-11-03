@@ -2,9 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:cloud_functions/cloud_functions.dart';
 import '../services/tts_service.dart'; // Import the new service
 import 'prayer_creation_screen.dart'; // So you can navigate to it
+import 'package:soulai_app/api_config.dart';
 
 class AIPrayerScreen extends StatefulWidget {
   const AIPrayerScreen({super.key});
+  final apiKey = myApiKey;
 
   @override
   State<AIPrayerScreen> createState() => _AIPrayerScreenState();
