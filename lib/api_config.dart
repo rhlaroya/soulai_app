@@ -1,1 +1,1 @@
-const String myApiKey = 'YOUR_SECRET_API_KEY_GOES_HERE';
+const String myApiKey = 'AIzaSyAu6Z1H9m7KjGXYZ3roZXVTN3kJwTbLz7U';
